@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/dejamdev/Projects/GitHub/mrdejam-nextjs-swipper-slider/app/layout\":[]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
